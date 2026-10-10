@@ -51,31 +51,16 @@
 
 - The backend exposes REST endpoints using Django REST Framework. Browse the API or admin at `/admin` when the server is running.
 
-**Contributing**
 
-- **Code style**: follow existing project conventions.
-- **Pull requests**: open feature branches and include tests for new behavior.
-- **Issues**: open issues for bugs or enhancement requests.
-
-**Deployment**
-
-- Deploy backend to a suitable host (Heroku, Digital Ocean, AWS, etc.) and frontend to Vercel or another static/SSR host. Configure production environment variables and static/media storage.
 
 **Live Demo**
 
 - Try the live demo: https://dev-community-blog-frontend.vercel.app/
 
-**License**
-
-- **License**: This project is offered under the MIT License (or choose your preferred license).
-
-**Contact**
-
-- **Maintainer**: Project maintainer — open an issue or pull request for questions and contributions.
 
 **Files of Interest**
 
 - **Backend entrypoint**: [backend/manage.py](backend/manage.py#L1)
 - **Frontend entrypoint**: [frontend/src/app/page.tsx](frontend/src/app/page.tsx#L1)
 
-Thanks for checking out the Dev Community Blog — happy building!
+
