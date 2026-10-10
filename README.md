@@ -61,6 +61,10 @@
 
 - Deploy backend to a suitable host (Heroku, Digital Ocean, AWS, etc.) and frontend to Vercel or another static/SSR host. Configure production environment variables and static/media storage.
 
+**Live Demo**
+
+- Try the live demo: https://dev-community-blog-frontend.vercel.app/
+
 **License**
 
 - **License**: This project is offered under the MIT License (or choose your preferred license).
